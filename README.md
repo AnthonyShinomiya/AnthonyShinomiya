@@ -12,7 +12,7 @@
 
 [logo-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/imagotipo-outline.svg
 [website-url]: https://anthonyshinomiya.com
-[banner-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/Portfolio.png
+[banner-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/portfolio-rounded.png
 
 <!--
 **AnthonyShinomiya/AnthonyShinomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
