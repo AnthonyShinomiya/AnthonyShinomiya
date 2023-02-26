@@ -1,6 +1,6 @@
-<div align="center">
-
-[![][logo-url]][website-url]  
+<div align="center" style="background-color: white; border-radius: .5rem; padding: 1rem 2rem;">
+  
+[![][logo-url]][website-url] 
 
 **Unity Portfolio 2021**  
 [ [See website ↗︎][website-url] ]
@@ -10,8 +10,7 @@
 
 [![][banner-url]][website-url]  
 
-
-[logo-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/imagotipo.svg
+[logo-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/imagotipo-outline.svg
 [website-url]: https://anthonyshinomiya.com
 [banner-url]: http://www.anthonyshinomiya.com/wp-content/uploads/2023/02/Portfolio.png
 
